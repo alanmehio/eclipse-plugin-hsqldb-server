@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="HSQL Server eclipse plugin" url="https://github.com/alanmehio/eclipse-plugin-hsqldb-server">
+      GitHub source code hosting
+   </description>
+   <feature url="features/net.holmconsulting.database.server.feature_1.1.0.201507042328.jar" id="net.holmconsulting.database.server.feature" version="1.1.0.201507042328"/>
+</site>

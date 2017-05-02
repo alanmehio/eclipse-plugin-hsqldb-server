@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Goodle Code" url="https://eclipse-plugin-hsqldb-server.googlecode.com/svn/trunk/updatesite">
+      Google Source Code Hosting
+   </description>
+   <feature url="features/com.holmconsulting.database.server.feature_1.0.0.201206252012.jar" id="com.holmconsulting.database.server.feature" version="1.0.0.201206252012"/>
+   <feature url="features/com.holmconsulting.database.server.feature_1.0.0.201206252034.jar" id="com.holmconsulting.database.server.feature" version="1.0.0.201206252034"/>
+   <feature url="features/com.holmconsulting.database.server.feature_1.0.0.201206252056.jar" id="com.holmconsulting.database.server.feature" version="1.0.0.201206252056"/>
+   <feature url="features/net.holmconsulting.database.server.feature_1.0.0.201207280016.jar" id="net.holmconsulting.database.server.feature" version="1.0.0.201207280016"/>
+   <feature url="features/net.holmconsulting.database.server.feature_1.1.0.201507012257.jar" id="net.holmconsulting.database.server.feature" version="1.1.0.201507012257"/>
+</site>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.holmconsulting.database.server.feature_1.0.0.201206252012.jar" id="com.holmconsulting.database.server.feature" version="1.0.0.201206252012"/>
+   <feature url="features/com.holmconsulting.database.server.feature_1.0.0.201206252034.jar" id="com.holmconsulting.database.server.feature" version="1.0.0.201206252034"/>
+   <feature url="features/com.holmconsulting.database.server.feature_1.0.0.201206252056.jar" id="com.holmconsulting.database.server.feature" version="1.0.0.201206252056"/>
+   <feature url="features/net.holmconsulting.database.server.feature_1.0.0.201207280016.jar" id="net.holmconsulting.database.server.feature" version="1.0.0.201207280016"/>
+   <feature url="features/net.holmconsulting.database.server.feature_1.1.0.201507012126.jar" id="net.holmconsulting.database.server.feature" version="1.1.0.201507012126"/>
+</site>
